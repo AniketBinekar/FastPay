@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names_of_contact">
+        <item>Ashish Mehra</item>
+        <item>Anand Joshi</item>
+        <item>Barkha Jaiswal</item>
+        <item>Kunal Singh</item>
+        <item>Nishant Roy</item>
+        <item>Riya Khanna</item>
+        <item>Shweta Sinha</item>
+        <item>Siddhi Menon</item>
+        <item>Taniya Roy</item>
+        <item>Tejas Shah</item>
+        <item></item>
+    </string-array>
+</resources>
